@@ -69,3 +69,32 @@ div{
 	border: 1px solid white;
 	font-size: 13px;
 }
+.pie{
+	background: #ffb6c1;
+	overflow: hidden;
+	width: 1025px;
+}
+
+.izquierda{
+	float: left;
+	width: 300px;
+	padding: 14px;
+}
+
+.derecha{
+	float: right;
+	width: 300px;
+	padding: 14px;
+}
+
+.abajo{
+	color: black;
+	font-size: 14px;
+	padding: 10px;
+}
+
+.SIGUENOS{
+	text-align: center;
+	color: black;
+	padding: 15px 0;
+}
